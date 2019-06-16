@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "523390251084",
+    "firebase_url": "https://clqsix-9e977.firebaseio.com",
+    "project_id": "clqsix-9e977",
+    "storage_bucket": "clqsix-9e977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523390251084:android:0e9511b5842df0c7",
+        "android_client_info": {
+          "package_name": "com.clqsix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523390251084-m1hs78ies7dmilhu7tfjcvch5a9hni13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKrCBlH0CR6OOYNK31JLQhp7qHFFxEYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
