@@ -17,7 +17,7 @@
     "human-format": "^0.9.2",
     "immutability-helper": "^2.6.0",
     "lodash": "^4.17.4",
-    "lodash.merge": "^4.6.0",
+    "lodash.merge": "^4.6.2",
     "moment": "^2.18.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
